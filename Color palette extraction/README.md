@@ -61,8 +61,7 @@ pip install pillow numpy pandas scikit-learn matplotlib webcolors scipy requests
 
 ## Sample output
 
-*(Your palette image here)*
-
+![Color Palette](palette_named.png)
 ---
 
 ## Coming soon
